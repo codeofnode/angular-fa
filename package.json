@@ -1,0 +1,22 @@
+{
+  "name": "angular-fa",
+  "version": "0.0.2",
+  "author": "Ramesh Kumar <codeofnode@gmail.com>",
+  "description": "A simple angular directive to put fixed alert on top of page.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeofnode/angular-fa.git"
+  },
+  "keywords": [
+    "alert",
+    "position",
+    "angular",
+    "fixed"
+  ],
+  "engines": {
+    "node": ">=0.12.x"
+  },
+  "dependencies": {
+    "angular": "^1.4.6"
+  }
+}
